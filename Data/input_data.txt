@@ -1,0 +1,8 @@
+Printed immediately.
+Printed after 2.4 seconds.
+Hello
+Hello
+Hi
+Hello
+Hi
+Hi

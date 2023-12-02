@@ -1,0 +1,7 @@
+id,first_name,last_name,city,salary
+01,John,Doe,NJ,8075
+02,Jack,McGinnis,PA,9119
+03,John,Repici,NJ,8075
+04,Stephen,Tyler,SD,1234
+05,Blankman,SomeTown,SD,1298
+06,Joan,Anne",CO,1123

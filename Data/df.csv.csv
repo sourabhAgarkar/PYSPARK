@@ -1,0 +1,8 @@
+cust_id,cust_name,trans_datetime,credit_amt,debit_amt,trans_city
+1,xyz,2023-07-01 12:00:00,10000,,pune
+2,abc,2023-07-01 13:00:00,1200,,pune
+1,xyz,2023-07-01 15:00:00,,2000,mumbai
+3,pqr,2023-07-01 13:00:00,13000,,mumbai
+5,mno,2023-07-02 00:00:00,,5000,nagar
+3,pqr,2023-07-01 14:00:00,,14000,nagar
+1,xyz,2023-07-01 17:00:00,,7000,pune

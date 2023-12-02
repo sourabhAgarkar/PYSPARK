@@ -1,0 +1,3 @@
+My technical skills encompass a wide range of tools and technologies,
+I have experience with SQL databases and have leveraged cloud platforms,
+like AWS and Azure for scalable data processing and storage. 
